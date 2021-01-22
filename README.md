@@ -18,7 +18,7 @@ difference:
 
 1) not using view, using interpolate. Since the VC3 used mel-spectrogram rather than MECP(used in VC2), layers' dimension all changed. And hard-coding some layers' channel is no longer reasonable.
 
-2) not using conv1d, all conv are conv2d ( but kernel_size might = 1* n), as indicated in the paper
+2) not using conv1d, all conv are conv2d
 
 3) use melgan as vocoder in data preprocessing, not World
 
