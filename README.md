@@ -12,7 +12,7 @@ an implementation of 【CycleGAN-VC3: Examining and Improving CycleGAN-VCs for M
 
 paper's link : https://isca-speech.org/archive/Interspeech_2020/pdfs/2280.pdf
 
-thanks to https://github.com/jackaduma/CycleGAN-VC2.git, this is the first time I built a complete DL project, learned a lot from jackaduma.
+thanks to https://github.com/jackaduma/CycleGAN-VC2.git, this is the first time I learned to build a complete DL project, learned a lot from jackaduma.
 
 difference: 
 
